@@ -1,0 +1,117 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1538206672354" stop="1538206715252">
+  <name>test_setting</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1538206672354" status="passed" stop="1538206692369">
+      <name>TestSetting.test_setting[wlan]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6564-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1538206681189" status="passed" stop="1538206692369">
+          <name>1.设置页面，点击搜索按钮</name>
+          <title>1.设置页面，点击搜索按钮</title>
+          <attachments/>
+          <steps>
+            <step start="1538206681189" status="passed" stop="1538206692369">
+              <name>2.设置页面，输入搜索内容</name>
+              <title>2.设置页面，输入搜索内容</title>
+              <attachments/>
+              <steps>
+                <step start="1538206681189" status="passed" stop="1538206692369">
+                  <name>3.设置页面，点击返回按钮</name>
+                  <title>3.设置页面，点击返回按钮</title>
+                  <attachments>
+                    <attachment source="73757b9b-a1af-45ef-aff8-3db320518e0d-attachment.txt" title="搜索按钮" type="text/plain"/>
+                    <attachment source="ab9ab2bc-a18c-4539-9b12-73084755ef76-attachment.txt" title="搜索框输入文本" type="text/plain"/>
+                    <attachment source="7225f0ac-7db7-4de9-ab23-f924c8b349bb-attachment.txt" title="回退按钮" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1538206692387" status="passed" stop="1538206704047">
+      <name>TestSetting.test_setting[\u663e\u793a]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6564-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1538206692391" status="passed" stop="1538206704047">
+          <name>1.设置页面，点击搜索按钮</name>
+          <title>1.设置页面，点击搜索按钮</title>
+          <attachments/>
+          <steps>
+            <step start="1538206692391" status="passed" stop="1538206704047">
+              <name>2.设置页面，输入搜索内容</name>
+              <title>2.设置页面，输入搜索内容</title>
+              <attachments/>
+              <steps>
+                <step start="1538206692391" status="passed" stop="1538206704047">
+                  <name>3.设置页面，点击返回按钮</name>
+                  <title>3.设置页面，点击返回按钮</title>
+                  <attachments>
+                    <attachment source="914b4b6a-7ea0-402e-83cd-ba30378322da-attachment.txt" title="搜索按钮" type="text/plain"/>
+                    <attachment source="9b4e05d9-24ed-4e77-a519-e4b1dc67c61e-attachment.txt" title="搜索框输入文本" type="text/plain"/>
+                    <attachment source="c704af4d-482e-4af3-bc60-dca974c160a3-attachment.txt" title="回退按钮" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1538206704058" status="passed" stop="1538206715252">
+      <name>TestSetting.test_setting[\u66f4\u591a]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6564-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1538206704060" status="passed" stop="1538206715252">
+          <name>1.设置页面，点击搜索按钮</name>
+          <title>1.设置页面，点击搜索按钮</title>
+          <attachments/>
+          <steps>
+            <step start="1538206704060" status="passed" stop="1538206715252">
+              <name>2.设置页面，输入搜索内容</name>
+              <title>2.设置页面，输入搜索内容</title>
+              <attachments/>
+              <steps>
+                <step start="1538206704060" status="passed" stop="1538206715252">
+                  <name>3.设置页面，点击返回按钮</name>
+                  <title>3.设置页面，点击返回按钮</title>
+                  <attachments>
+                    <attachment source="d3171a7c-7085-4930-ba67-075ee11b1862-attachment.txt" title="搜索按钮" type="text/plain"/>
+                    <attachment source="a5fbc2c0-4d13-4359-9e3d-3eb23abe6636-attachment.txt" title="搜索框输入文本" type="text/plain"/>
+                    <attachment source="1d1a45eb-56cd-4d53-a013-961ef4a8de76-attachment.txt" title="回退按钮" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
